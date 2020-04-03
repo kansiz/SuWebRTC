@@ -1,0 +1,23 @@
+{
+  "name": "kansiz",
+  "version": "1.0.0",
+  "description": "WebRTC for Unity",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kansiz/SuWebRTC.git"
+  },
+  "keywords": [
+    "WebRTC",
+    "Unity"
+  ],
+  "author": "Erol KANSIZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kansiz/SuWebRTC/issues"
+  },
+  "homepage": "https://github.com/kansiz/SuWebRTC#readme"
+}
